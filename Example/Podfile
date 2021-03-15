@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'DWHEmojiSelectionView_Example' do
+  pod 'DWHEmojiSelectionView', :path => '../'
+
+  target 'DWHEmojiSelectionView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

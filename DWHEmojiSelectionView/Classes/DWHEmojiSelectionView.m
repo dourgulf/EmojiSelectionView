@@ -6,7 +6,7 @@
 //  Copyright © 2021 lizhi. All rights reserved.
 //
 
-#import "DWHEmojiSelectionView.h"
+#import <DWHEmojiSelectionView.h>
 
 #define kScreenWidth ([[UIScreen mainScreen] bounds].size.width)
 #define kScreenHeight ([[UIScreen mainScreen] bounds].size.height)

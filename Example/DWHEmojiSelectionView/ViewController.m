@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-#import "DWHEmojiSelectionView.h"
+#import <DWHEmojiSelectionView/DWHEmojiSelectionView.h>
 
 @interface ViewController () <DWHEmojiOptionsViewDelegate>
 

@@ -1,5 +1,5 @@
 PODS:
-  - DWHEmojiSelectionView (0.1.0)
+  - DWHEmojiSelectionView (0.1.1)
 
 DEPENDENCIES:
   - DWHEmojiSelectionView (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  DWHEmojiSelectionView: daea522c6f55bf0df97ede0b53c441f6561e3732
+  DWHEmojiSelectionView: fda979dc77517dd86d24b13953476663de86d6c2
 
 PODFILE CHECKSUM: 95d93a0c6f7ebbcc22267bc3732325b7861a2004
 
-COCOAPODS: 1.8.4
+COCOAPODS: 1.10.1
